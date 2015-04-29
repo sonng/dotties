@@ -6,6 +6,7 @@ ln -sf ~/dotties/vimrc ~/.vimrc
 ln -sf ~/dotties/bash_profile ~/.bash_profile
 ln -sf ~/dotties/bashrc ~/.bashrc
 ln -sf ~/dotties/gitignore ~/.gitignore
+ln -sf ~/dotties/npmrc ~/.npmrc
 
 echo "Setting up git ignore"
 git config --global core.excludesfile ~/.gitignore
